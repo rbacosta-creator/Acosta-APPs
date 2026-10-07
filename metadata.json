@@ -1,0 +1,6 @@
+{
+  "name": "SEM-R Reading Quest: 4th Grade Critical Thinking",
+  "description": "An interactive, gamified reading comprehension and critical thinking platform for 4th graders powered by the UConn Project SEM-R bookmarks with quests, badges, and reading studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
